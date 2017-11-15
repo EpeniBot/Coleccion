@@ -7,7 +7,7 @@
 // @match        http://bitcomine.net/ads
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/EpeniBot/Coleccion/master/BitcoMine.js
-// @downloadURL  https://raw.githubusercontent.com/laurentum/chorrito/master/robot_mio.js
+// @downloadURL  https://raw.githubusercontent.com/EpeniBot/Coleccion/master/BitcoMine.js
 // ==/UserScript==
 
 (function() {
