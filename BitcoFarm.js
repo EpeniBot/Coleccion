@@ -6,9 +6,9 @@
 // @author       EpeniBot
 // @match        http://bitcofarm.com/ads
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/EpeniBot/Coleccion/master/BitcoFarm.js
+// @downloadURL  https://raw.githubusercontent.com/EpeniBot/Coleccion/master/BitcoFarm.js
 // ==/UserScript==
-
-
 
 
 (function() {
