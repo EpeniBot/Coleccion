@@ -33,7 +33,7 @@
             var href = jQuery('#right').find('a[href] > div').not('.disabled_pbx').first().parent().attr('href');
             console.log('opened href: ', href);
             if (!href) return;
-
+            
             var splitted = href.split('=');
             var ad_id = splitted[1].split('&');
             ad_id = ad_id[0];
