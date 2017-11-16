@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name         BitcoMine | EpeniBot
-// @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Auto Click Ads BitcoMine
+// @description  Vende el carbón y gana dinero mientras duermes!
 // @author       EpeniBot
 // @match        http://bitcomine.net/ads
 // @grant        none
