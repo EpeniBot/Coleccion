@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name         BitcoFarm | EpeniBot
-// @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  try to take over the world!
+// @description  Cuida las gallinitas y gana dinero mientras duermes!
 // @author       EpeniBot
 // @match        http://bitcofarm.com/ads
 // @grant        none
