@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         EpeniBot / FreeBitcoin Apostador
+// @name         EpeniBot | FreeBitcoin Apostador
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Apostando en Freebitcoin!
