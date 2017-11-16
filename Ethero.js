@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name         Ethero | EpeniBot
-// @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Auto Click Ads BitcoMine
+// @description  Vende el carbón y gana dinero mientras duermes!
 // @author       EpeniBot
 // @match        http://ethero.net/ads
 // @grant        none
